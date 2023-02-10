@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 201ed21b35b8256498ed7085ae390151, type: 3}
+  m_Name: BusinessConfig
+  m_EditorClassIdentifier: 
+  _datas:
+  - _id: 0
+    _incomeDelay: 3
+    _basePrice: 3
+    _baseIncome: 3
+    _baseLevel: 1
+    _firstUpgradeData:
+      _price: 50
+      _incomeMultiplier: 0.5
+    _secondUpgradeData:
+      _price: 400
+      _incomeMultiplier: 1
+    _level: 32
+    _purchased: 1
+    _currentIncomeDelay: 1.3199993
+  - _id: 1
+    _incomeDelay: 6
+    _basePrice: 40
+    _baseIncome: 40
+    _baseLevel: 0
+    _firstUpgradeData:
+      _price: 1200
+      _incomeMultiplier: 1
+    _secondUpgradeData:
+      _price: 4000
+      _incomeMultiplier: 2
+    _level: 0
+    _purchased: 0
+    _currentIncomeDelay: 0
+  - _id: 2
+    _incomeDelay: 10
+    _basePrice: 200
+    _baseIncome: 200
+    _baseLevel: 0
+    _firstUpgradeData:
+      _price: 6000
+      _incomeMultiplier: 1
+    _secondUpgradeData:
+      _price: 20000
+      _incomeMultiplier: 1.5
+    _level: 0
+    _purchased: 0
+    _currentIncomeDelay: 0
+  - _id: 3
+    _incomeDelay: 17
+    _basePrice: 1000
+    _baseIncome: 1000
+    _baseLevel: 0
+    _firstUpgradeData:
+      _price: 15000
+      _incomeMultiplier: 1
+    _secondUpgradeData:
+      _price: 50000
+      _incomeMultiplier: 2
+    _level: 0
+    _purchased: 0
+    _currentIncomeDelay: 0
+  - _id: 4
+    _incomeDelay: 30
+    _basePrice: 5000
+    _baseIncome: 5000
+    _baseLevel: 0
+    _firstUpgradeData:
+      _price: 100000
+      _incomeMultiplier: 2
+    _secondUpgradeData:
+      _price: 500000
+      _incomeMultiplier: 4
+    _level: 0
+    _purchased: 0
+    _currentIncomeDelay: 0
+  _currentData:
+    _id: 0
+    _incomeDelay: 3
+    _basePrice: 3
+    _baseIncome: 3
+    _baseLevel: 1
+    _firstUpgradeData:
+      _price: 50
+      _incomeMultiplier: 0.5
+    _secondUpgradeData:
+      _price: 400
+      _incomeMultiplier: 1
+    _level: 32
+    _purchased: 1
+    _currentIncomeDelay: 1.3199993
